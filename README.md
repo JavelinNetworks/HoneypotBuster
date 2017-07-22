@@ -1,11 +1,11 @@
-### Microsoft PowerShell module desgined for red teams that can be used to honeypots and honeytokens in the network or at the host.
+### Microsoft PowerShell module desgined for red teams that can be used to find honeypots and honeytokens in the network or at the host.
 
 ## CodeExecution
 
 **Execute code on a target machine using Import-Module.**
 
 
-#### `Invoke-HoneypotBuster`
+## `Invoke-HoneypotBuster`
 
 A tool designed to spot Honey Tokens, Honey Bread Crumbs, and Honey Pots being used by common Distributed Deception vendors.
 This tool will help spot the following deception techniques:
