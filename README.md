@@ -7,7 +7,7 @@
 
 ## `Invoke-HoneypotBuster`
 
-A tool designed to spot Honey Tokens, Honey Bread Crumbs, and Honey Pots being used by common Distributed Deception vendors.
+HoeypotBuster is a tool designed to spot Honey Tokens, Honey Bread Crumbs, and Honey Pots being used by common Distributed Deception vendors.
 This tool will help spot the following deception techniques:
 
 #### 1. Kerberoasting Service Accounts Honey Tokens
@@ -38,7 +38,7 @@ By that they will be able to point the attacker directly to their honey pot inst
 
 ## License
 
-The IT-Tools project and all individual scripts are under the [BSD 3-Clause license] unless explicitly noted otherwise.
+The Honeypot buster project and all individual scripts are under the [BSD 3-Clause license] unless explicitly noted otherwise.
 
 ## Usage
 
